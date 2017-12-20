@@ -1,5 +1,7 @@
+#use strict;
+print("Hello world!") if(2<1);
 
 
-$c+=2;
-print $c;
+print("Hello world again!");
 
+print ((2+3)*2);
